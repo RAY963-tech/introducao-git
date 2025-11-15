@@ -10,3 +10,8 @@ git commit -m "mensagem de commit"
 
 
 git push origin main
+
+
+*Agora estamos na branch nova
+
+git checkout  -b dev
